@@ -1,11 +1,6 @@
-# Kama-memoryPool 内存池
+# memoryPool 内存池
 
-> **本项目目前只在[知识星球](https://programmercarl.com/other/kstar.html)答疑并维护**。
-
-
-这次[知识星球](https://programmercarl.com/other/kstar.html)里再添一个C++轮子项目：内存池
-
-代码量不到1000行，又是一个完整的项目。
+> 代码量不到1000行，是一个完整的项目。
 
 内存池在实际的项目开发中较为常见，这次从学习的角度带大家去高效了解和学习内存池项目。
 
@@ -75,9 +70,6 @@
 
 ## 内存池项目精讲
 
-
-该项目的专栏是[知识星球](https://programmercarl.com/other/kstar.html)录友专享的。
-
 项目专栏依然是将 「简历写法」给大家列出来了，大家学完就可以参考这个来写简历：
 
 <div align="center"><img src='https://file1.kamacoder.com/i/algo/20250224100020.png' width=500 alt=''></img></div>
@@ -106,14 +98,5 @@
 
 <div align="center"><img src='https://file1.kamacoder.com/i/algo/20250224100433.png' width=500 alt=''></img></div>
 
-## 答疑
 
-本项目在[知识星球](https://programmercarl.com/other/kstar.html)里为 文字专栏形式，大家不用担心，看不懂，星球里每个项目有专属答疑群，任何问题都可以在群里问，都会得到解答：
-
-![](https://file1.kamacoder.com/i/web/2025-09-26_11-30-13.jpg)
-
-
-## 获取本项目专栏
-
-**本文档仅为星球内部专享，大家可以加入[知识星球](./kstar.md)里获取，在星球置顶一**
 
